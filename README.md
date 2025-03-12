@@ -3,3 +3,4 @@ Machine Learning course in Warsaw University.
 ## Homework Submissions
 
 - [Homework 1:](https://github.com/glorivaas/Machine_Learning25/blob/main/LAB1.ipynb)
+- [Homework 2:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab2.ipynb)
