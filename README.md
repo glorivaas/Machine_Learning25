@@ -9,4 +9,5 @@ Machine Learning course in Warsaw University.
 - [Homework 5:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab5.ipynb)
 - [Homework 6:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab6.ipynb)
 - [Homework 7:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab7.ipynb)
-- [Homework 8:](https://github.com/glorivaas/Machine_Learning25/blob/main/lab8.ipynb)[![Open In Colab, because it is too large for github]([https://colab.research.google.com/assets/colab-badge.svg]](https://colab.research.google.com/gist/glorivaas/1428e4978f517e5c1af6bb362ab03d41/lab08_automatic-gradient-training-loop.ipynb#scrollTo=zxg_Y9jlVxdw))
+- [Homework 8:](https://github.com/glorivaas/Machine_Learning25/blob/main/lab8.ipynb) 
+  [![Open In Colab (too large for GitHub)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/glorivaas/1428e4978f517e5c1af6bb362ab03d41/lab08_automatic-gradient-training-loop.ipynb)
