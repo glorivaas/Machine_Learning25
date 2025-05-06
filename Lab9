@@ -336,10 +336,10 @@
       ],
       "metadata": {
         "id": "vjAlmExA_Twh",
-        "outputId": "2e8e81c4-f4e6-4184-aa73-fe3962da684c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "2e8e81c4-f4e6-4184-aa73-fe3962da684c"
       },
       "id": "vjAlmExA_Twh",
       "execution_count": 2,
@@ -1155,10 +1155,10 @@
       ],
       "metadata": {
         "id": "jcPek-rrHYMi",
-        "outputId": "bf116c43-c098-408c-b55b-fb46a9f5af38",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "bf116c43-c098-408c-b55b-fb46a9f5af38"
       },
       "id": "jcPek-rrHYMi",
       "execution_count": 14,
@@ -1348,12 +1348,12 @@
         "plt.show()\n"
       ],
       "metadata": {
-        "id": "v6Ih-Q4DGui7",
-        "outputId": "e44072a1-c679-44ef-8401-8f6ab7e91b40",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "id": "v6Ih-Q4DGui7",
+        "outputId": "e44072a1-c679-44ef-8401-8f6ab7e91b40"
       },
       "id": "v6Ih-Q4DGui7",
       "execution_count": 21,
@@ -1456,12 +1456,12 @@
         "plt.show()\n"
       ],
       "metadata": {
-        "id": "kXc4a8ESHemy",
-        "outputId": "729bad22-a0b0-4787-ff6d-b91497e75821",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 550
-        }
+        },
+        "id": "kXc4a8ESHemy",
+        "outputId": "729bad22-a0b0-4787-ff6d-b91497e75821"
       },
       "id": "kXc4a8ESHemy",
       "execution_count": 16,
@@ -1556,12 +1556,12 @@
         "plt.show()\n"
       ],
       "metadata": {
-        "id": "AyhPTHhsIIiu",
-        "outputId": "c393c963-412a-4c76-9fbc-4824fb88c3b8",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "id": "AyhPTHhsIIiu",
+        "outputId": "c393c963-412a-4c76-9fbc-4824fb88c3b8"
       },
       "id": "AyhPTHhsIIiu",
       "execution_count": 17,
