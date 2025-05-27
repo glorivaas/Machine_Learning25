@@ -12,4 +12,4 @@ Machine Learning course in Warsaw University.
 - [Homework 8:](https://github.com/glorivaas/Machine_Learning25/blob/main/lab8.ipynb) 
   [![Open In Colab (too large for GitHub)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/glorivaas/1428e4978f517e5c1af6bb362ab03d41/lab08_automatic-gradient-training-loop.ipynb)
 - [Homework 9:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab9.ipynb). [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/dreamed_digits_evolution%20(2).mp4)
-- [Homework 10:] [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/cnn_digit_dreaming_animation%20(1).mp4)
+- [Homework 10:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab10.ipynb) [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/cnn_digit_dreaming_animation%20(1).mp4)
