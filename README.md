@@ -14,3 +14,4 @@ Machine Learning course in Warsaw University.
 - [Homework 9:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab9.ipynb). [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/dreamed_digits_evolution%20(2).mp4)
 - [Homework 10:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab10.ipynb) [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/cnn_digit_dreaming_animation%20(1).mp4)
 - [Homework 11:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab11.ipynb) [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/CamScanner%2006-02-2025%2011.18.pdf)
+- [Homework 12:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab12.ipynb)
