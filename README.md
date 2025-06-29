@@ -15,3 +15,4 @@ Machine Learning course in Warsaw University.
 - [Homework 10:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab10.ipynb) [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/cnn_digit_dreaming_animation%20(1).mp4)
 - [Homework 11:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab11.ipynb) [Additional](https://github.com/glorivaas/Machine_Learning25/blob/main/CamScanner%2006-02-2025%2011.18.pdf)
 - [Homework 12:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab12.ipynb)
+- [Homework 13:](https://github.com/glorivaas/Machine_Learning25/blob/main/Lab13and14.ipynb)
